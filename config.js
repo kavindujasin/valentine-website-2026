@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Lets goo😚💖💝",
-        message: "I know i can't take you out today but here is a gift, buy whatever you want my lovee",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        message: "I know i can't take you out today but i bought you that Vanity Case from Étoile, it should arrive in the next few days",
+        emojis: "🎁💖💝💋❤️"  // These will bounce around
     },
 
     // Color scheme for the website
